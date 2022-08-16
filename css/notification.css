@@ -1,0 +1,10 @@
+.my-card {
+  /* padding: 20%; */
+  /* align-items:center;  */
+}
+
+.my-card li {
+  margin: 40px;
+  display: flex;
+  align-items: center;
+}
